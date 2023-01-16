@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sites.pitt.edu//~gjh42/sitemap.xml

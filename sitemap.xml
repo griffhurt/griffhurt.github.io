@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
-        <loc>https://griffinhurt.com/</loc>
-    </url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://sites.pitt.edu//~gjh42/projects/griffindex/</loc>
+<lastmod>2023-01-15T22:59:48-05:00</lastmod>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/projects/schedulepp/</loc>
+<lastmod>2023-01-15T22:59:48-05:00</lastmod>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/projects/ubfounders/</loc>
+<lastmod>2023-01-15T22:59:48-05:00</lastmod>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/teaching/cmpinf_0010_spring23/</loc>
+<lastmod>2023-01-15T22:59:48-05:00</lastmod>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/</loc>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/projects/</loc>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/publications/</loc>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/teaching/</loc>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/blog/tag/meta/</loc>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/blog/tag/math/</loc>
+</url>
+<url>
+<loc>https://sites.pitt.edu//~gjh42/blog/2023/</loc>
+</url>
 </urlset>
