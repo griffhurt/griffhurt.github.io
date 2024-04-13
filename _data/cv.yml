@@ -2,96 +2,146 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Griffin James Hurt
+    - name: Email
+      value: griffhurt@pitt.edu
+    - name: Office Address
+      value: 130 N Bellefield Ave, Pittsburgh, PA 15017
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: University of Pittsburgh, Pittsburgh, PA
+      year: 2024 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisor: Dr. Jacob Biehl"
+    - title: B.Phil. in Computer Science
+      institution: University of Pittsburgh, Pittsburgh, PA
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - "GPA: 4.00"
+        - "Thesis: <i>Untethered Displays: The Effects of Mixed Reality on Split-Attention in Fine-Motor Tasks</i>"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://www.nsfgrfp.org/">NSF GRFP</a>
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Best Capstone Talk Award, Department of Computer Science, University of Pittsburgh
+        - <a href="https://www.frederickhonors.pitt.edu/research/research-creative-fellowships/chancellors-undergraduate-teaching-fellowships">Chancellor's Undergraduate Teaching Fellowship</a>, Frederick Honors College, University of Pittsburgh
+        - Dean's List, University of Pittsburgh School of Computing and Information, University of Pittsburgh
 
-- title: Academic Interests
-  type: nested_list
+- title: Research Experience
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Senior Computer Science Research Lead
+      institution: <a href="https://surreality.pitt.edu">Surreality Lab</a>, University of Pittsburgh
+      year: 2023 - Now
+      description:
+        - Spearheaded the development of interfaces for endovascular surgical displays, aimed at mitigating cognitive load and enhancing surgical performance through mixed reality (MR) technology.
+        - Authored a proposal submission to the NSF Graduate Researcher Fellowship Program, aiming to explore mixed reality needle guidance for arterial line placement.
+        - Collaborated with medical professionals to explore novel mixed reality interfaces for annotation in robot-assisted surgery, emphasizing applications for DaVinci surgical robots.
+    - title: Undergraduate Research Assistant
+      institution: Department of Computer Science, University of Pittsburgh
+      year: 2022 - 2023
+      description:
+        - Designed and built mixed reality systems software for the Microsoft HoloLens 2 to investigate the effects of different display modalities on user sentiment and task accuracy.
+        - Initiated and structured a study evaluating the effects of mixed reality on cognitive load and situational awareness in split attention tasks, employing LEGO assembly as a model task.
+        - Participated in lab group discussions and assisted graduate researchers with reviewing current work.
 
-- title: Other Interests
-  type: list
+    - title: High School Research Assistant
+      institution: <a href="https://www.zervalab.com/">Zervantonakis Lab</a>, University of Pittsburgh
+      year: 2021 - 2022
+      description:
+        - Investigated the spatial relationship between tumor cells and fibroblasts in HER2+ breast cancer and its effects on proliferation.
+        - Wrote software to increase efficiency of AI microscopy image analysis pipeline. Application has now been used to analyze almost 1 million images.
+        - Studied the trade-off between speed and accuracy in classical versus random forest machine learning-based cellular image segmentation.
+
+- title: Teaching Experience
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: "CS 0449: Introduction to Systems Software"
+      year: Sp '24
+      description:
+        - ~20 students
+        - Led recitation section teaching elements of C programming, compiling/linking, and multithreading/synchronization.
+    - title: <a href="https://stemthrough.games/">STEM Through Games</a>
+      year: 2023 - 2024
+      description:
+        - 11 students
+        - Design, pilot, and evaluate a game design and development program that introduces high school students to computational thinking, foundations of programming, and cross-disciplinary academic STEM research through the design and implementation of digital games.
+        - Teach Unity concepts including GameObjects, C#, and Components.
+        - Collect data on the efficacy of teaching computational thinking and STEM topics through game design and development.
+    - title: "CS 0441: Discrete Structures for Computer Science"
+      year: Fa '23
+      description:
+        - ~20 students
+        - Led recitation section by selecting and presenting example problems to students.
+    - title: "CMPINF 0010: Big Ideas in Computing and Information"
+      year: Sp '23 - Sp '24
+      description:
+        - 30 - 35 students
+        - Presented lessons in lab section covering Python programming, basic data science with Pandas, Linux command line, and version control with Git.
+        - Awarded Chancellor's Undergraduate Teaching Fellowship to restructure lab section curriculum to align with material covered in lecture.
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Resident Assistant
+      year: 2023
+      institution: <a href="https://hillmanacademy.upmc.com/">UPMC Hillman Academy</a>, Pittsburgh, PA
+      description: 
+        - Supervised a group of 8 global students during a 7-week cancer research program, ensuring a safe and enriching living environment.
+        - Exhibited strong leadership skills, guiding students in navigating the challenges of the program and setting a positive example for the dormitory community.
+        - Served as a point of contact for students, offering mental health support and encouraging personal growth throughout the program.
+    - title: Student Mentor
+      year: 2021-2022
+      institution: <a href="http://ic4.site/index.html">IC4 Project</a>, Pepperdine University, Malibu, CA (Remote)
+      description:
+        - Devised and taught Python programming curriculum to a cohort of international students.
+        - Directed student teachers in delivering lessons and building applications.
+        - Mentored student programmers with computer science projects and technical presentation skills.
+        - Developed proprietary educational technology to streamline computer science distance learning.
+    - title: Software Intern
+      year: 2019
+      institution: <a href="https://www.fi360.com/">Fi360, A Broadridge Company</a>, Pittsburgh, PA
+      description:
+        - Assisted in the development of UI (user interface) in Vue.js for company's Stable Value product.
+        - Reversed engineered C# code and wrote reports on its functionality.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/griffhurt/schedule-plus-plus">Schedule++</a>
+      year: 2022
+      institution: CSCHacks, University of Pittsburgh, Pittsburgh, PA
+      description:
+        - <b>Won first prize in hackathon</b>
+        - <u>Technologies used:</u> JavaScript, GraphQL, CORS, AJAX, Web App Manifest
+        - Developed an open source browser extension to add additional features to University of Pittsburgh's scheduling portal
+        - Led a team of 3 developers
+    - title: <a href="https://apps.apple.com/us/app/ub-founders/id1574361137">UB Founders</a>
+      year: 2021
+      institution: University at Buffalo, Buffalo, NY (Remote)
+      description:
+        - <u>Technologies used:</u> React Native, Bootstrap, PHP, MySQL
+        - Developed a feature-rich mobile application for both iOS and Android to deliver the university's podcast content to donors, enhancing donor engagement and promoting university initiatives.
+        - Created an intuitive and user-friendly web panel utilizing, enabling seamless uploading and management of new podcast episodes by university staff.
+        - Collaborated closely with university stakeholders to understand requirements, design specifications, and feedback, resulting in a tailor-made solution that met the university's specific needs and preferences.
+
+- title: Leadership and Service
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Student Volunteer, <a href="https://iss2023.acm.org/">ACM Interactive Sufaces and Sensing (ISS)</a>
+        - Undergraduate Presenter, <a href="https://zervalab.com">Zervantonakis Lab</a>, <a href="https://www.leadingforlife.org/m/pages/index.jsp?uREC_ID=475670&type=d">LEAD Program</a>, University of Pittsburgh
+        - Student Panelist, Early Experiences in Undergraduate Research, School of Computing and Information, University of Pittsburgh
+    - year: 2022
+      items:
+        - Student Representative, SCI Academic Council, School of Computing and Information, University of Pittsburgh
+        - High School Research Presenter, <a href="https://zervalab.com">Zervantonakis Lab</a>, <a href="https://www.leadingforlife.org/m/pages/index.jsp?uREC_ID=475670&type=d">LEAD Program</a>, University of Pittsburgh
