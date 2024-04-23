@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my BPhil thesis, _Untethered Displays: The Effects of Mixed Reality on Split-Attention in Fine-Motor Tasks_
+I successfully defended my BPhil thesis, _[Untethered Displays: The Effects of Mixed Reality on Split-Attention in Fine-Motor Tasks](http://d-scholarship.pitt.edu/46106/)_
