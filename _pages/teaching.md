@@ -8,13 +8,6 @@ nav_order: 2
 semesters: ["Spring 2024", "Fall 2023", "Spring 2023"]
 ---
 
-<h4>Current Office Hours:</h4>
-<ul>
-    <li>Mondays 1PM - 2:30PM: In-Person @ <a href="/130n">130 N Bellefield</a> or <a href="https://pitt.zoom.us/j/92691220005">Zoom</a></li>
-    <li>Tuesdays 11AM - 2PM: In-Person @ <a href="/130n">130 N Bellefield</a> or <a href="https://pitt.zoom.us/j/92691220005">Zoom</a></li>
-    <li>Thursdays 4PM - 5:30PM: <a href="https://pitt.zoom.us/j/92691220005">Zoom</a></li>
-</ul>
-
 <div class="teaching">
 {% for semester in page.semesters %}
     <div class="semester mb-5">
