@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was chosen as the 2023-2024 Outstanding Undergraduate Student in the Department of Computer Science
+I was chosen as one of the 2023-2024 Outstanding Undergraduate Students in the Department of Computer Science

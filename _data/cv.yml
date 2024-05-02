@@ -65,18 +65,18 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: "CS 0449: Introduction to Systems Software"
-      year: Sp '24
-      description:
-        - ~20 students
-        - Led recitation section teaching elements of C programming, compiling/linking, and multithreading/synchronization.
     - title: <a href="https://stemthrough.games/">STEM Through Games</a>
-      year: 2023 - 2024
+      year: 2023 - Now
       description:
         - 11 students
         - Design, pilot, and evaluate a game design and development program that introduces high school students to computational thinking, foundations of programming, and cross-disciplinary academic STEM research through the design and implementation of digital games.
         - Teach Unity concepts including GameObjects, C#, and Components.
         - Collect data on the efficacy of teaching computational thinking and STEM topics through game design and development.
+    - title: "CS 0449: Introduction to Systems Software"
+      year: Sp '24
+      description:
+        - ~20 students
+        - Led recitation section teaching elements of C programming, compiling/linking, and multithreading/synchronization.
     - title: "CS 0441: Discrete Structures for Computer Science"
       year: Fa '23
       description:
