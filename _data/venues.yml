@@ -1,3 +1,11 @@
 "IEEE VR":
   url: https://ieeevr.org/
   color: "#9a21a3"
+
+"World NSGY":
+  url: https://www.sciencedirect.com/journal/world-neurosurgery
+  color: "#32a852"
+
+"SUI":
+  url: "https://sui.acm.org/2025/"
+  color: "#fcba03"

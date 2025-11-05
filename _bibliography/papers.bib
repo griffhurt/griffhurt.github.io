@@ -13,9 +13,11 @@
   abstract={Mixed reality (MR) holds potential for transforming endovascular surgery by enhancing information delivery. This advancement could significantly alter surgical interfaces, leading to improved patient outcomes. Our research utilizes MR technology to transform physical monitor displays inside the operating room (OR) into holographic windows. We aim to reduce cognitive load on surgeons by counteracting the split attention effect and enabling ergonomic display layouts. Our research is tackling key design challenges, including hands-free interaction, and occlusion management in densely crowded ORs. We are conducting studies to understand user behavior changes when people consult information on holographic windows compared to conventional displays.},
   doi={10.1109/VRW62533.2024.00326},
   html={https://ieeexplore.ieee.org/abstract/document/10536526},
+  preview={endovascular.png}
 }
 
 @article{fedor2025814,
+  bibtex_show={true},
   title={814 Evaluation of Mixed Reality for Burn Margin Visualization and Surgical Planning},
   author={Fedor, Christopher and Hurt, Griffin and Andrews, Edward and Biehl, Jacob and Egro, Francesco},
   journal={Journal of Burn Care \& Research},
@@ -26,5 +28,73 @@
   publisher={Oxford University Press US},
   doi={10.1093/jbcr/iraf019.345},
   abstract={Mixed reality (MR) allows virtual content to be merged with the physical world, enabling novel visualization affordances not available with traditional displays. These affordances are particularly beneficial in the medical domain, as surgeons can view imaging and other relevant patient data in a 3D spatial context. In burn surgery, excision and grafting are mainstay treatments for deep partial and full-thickness burns. However, identifying regions to be excised is nontrivial. Recent work has developed imaging techniques that assist surgeons in determining burn margins. In this study, we demonstrate a new application of MR for burn surgery by building and evaluating a system that overlays deep burn margins onto a simulated anatomical surface for surgeons to trace. This represents a first step towards creating an MR system that can help physicians interpret burn surface area and depth for surgical planning.},
-  html={https://academic.oup.com/jbcr/article-abstract/46/Supplement_1/S266/8101555}
+  html={https://academic.oup.com/jbcr/article-abstract/46/Supplement_1/S266/8101555},
+  preview={burn_abs.png}
+}
+
+@article{BHATIA2025124562,
+bibtex_show={true},
+title = {Optimizing the Workflow of Superficial Temporal Artery Mapping in Extracranial-Intracranial Bypass Surgery Using Mixed Reality: A Proof-of-Concept Study},
+journal = {World Neurosurgery},
+abbr={World NSGY},
+volume = {204},
+pages = {124562},
+year = {2025},
+issn = {1878-8750},
+doi = {https://doi.org/10.1016/j.wneu.2025.124562},
+url = {https://www.sciencedirect.com/science/article/pii/S1878875025009209},
+html={https://www.sciencedirect.com/science/article/pii/S1878875025009209},
+pdf={stamca.pdf},
+author = {Shovan Bhatia and Aaron Huynh and Regan M. Shanahan and Michael R. Kann and Adway Gopakumar and Nikhil Sharma and Nicolás M. Kass and Griffin Hurt and Rishi Basdeo and Nicole Don and Michael J. Lang and Jacob T. Biehl and Edward G. Andrews},
+keywords = {Bypass surgery, Cerebrovascular neurosurgery, Mixed reality, Operative workflow},
+abstract = {Background
+Doppler ultrasound is the standard for mapping the superficial temporal artery (STA) during extracranial-intracranial (EC-IC) bypass surgery. Mixed reality (MR) offers a novel alternative by providing patient-specific anatomic overlays to better visualize the STA. This study aims to validate MR-guided STA mapping as a reliable preoperative planning tool in EC-IC bypass to the middle cerebral artery.
+Methods
+In this proof-of-concept study, 7 patients undergoing STA–middle cerebral artery bypass surgery were enrolled. Preoperative computed tomography angiograms were superimposed onto the patient using MEDIVIS SurgicalAR. Six standardized anatomic fiducial points were chosen for intraoperative registration. Five points along the parietal branch of the STA were annotated using MR and Doppler techniques. Point-to-point discrepancies between the MR and Doppler maps were analyzed, and map overlap was evaluated with computer vision techniques (OpenCV, Python). Significance was set at P < 0.05.
+Results
+MR mapping of the STA was faster than Doppler mapping (11.3 ± 1.47 vs. 67.2 ± 17.6 seconds; P = 0.001). When considering the time to register, the overall time for MR mapping was similar to Doppler (79.2 ± 39.8 vs. 67.2 ± 17.6 seconds; P = 0.78). Notably, MR outperformed Doppler at the distal segments of the STA (2.71 ± 0.91 vs. 20.90 ± 8.46 seconds; P < 0.001). Overall, the MR and Doppler maps demonstrated comparable alignment, with an average deviation of 4.46 ± 2.64 mm along the entire course of the mapped vessel.
+Conclusions
+MR provides comparable STA mapping accuracy to Doppler while reducing the mapping time. These findings suggest that the planned incision is unlikely to differ, providing early evidence for the feasibility of MR-guided mapping for EC-IC bypass procedures.},
+preview={stamca.png}
+}
+
+@inproceedings{10.1145/3694907.3765953,
+bibtex_show={true},
+author = {Hurt, Griffin J and Brinkman, Calvin and Crosby, Ethan and Dhamale, Akshat and Andrews, Edward and Biehl, Jacob},
+title = {SurrealityCV: An Open-Source, Cross-Platform Unity Library for Mixed Reality Computer Vision},
+year = {2025},
+isbn = {9798400712593},
+abbr= {SUI},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3694907.3765953},
+doi = {10.1145/3694907.3765953},
+abstract = {Many mixed reality applications rely on computer vision to perform operations like object tracking, identification, and registration. While platform-specific solutions like OpenCV for Unity and ARKit exist, there is currently no cross-platform software library for performing these tasks across most consumer mixed reality hardware. Here, we present an open-source, cross-platform Unity library that facilitates common computer vision workflows within mixed reality applications. The package is written primarily in C++ using OpenCV as a backend, with APIs in C and C# to maximize compatibility. The library is modular, and new modules can be easily created to extend its functionality. The source code is available on GitHub at https://github.com/surreality-lab/SurrealityCV under the MIT license.},
+booktitle = {Proceedings of the 2025 ACM Symposium on Spatial User Interaction},
+articleno = {43},
+numpages = {3},
+keywords = {Mixed Reality, Augmented Reality, Computer Vision, Unity, Rapid Prototyping},
+location = {
+},
+series = {SUI '25},
+html = {https://dl.acm.org/doi/abs/10.1145/3694907.3765953},
+preview={surrealitycv.png}
+}
+
+@inproceedings{10.1145/3773074,
+bibtex_show={true},
+author = {Hurt, Griffin J and Khan, Talha and Kass, Nicolás and Tang, Anthony and Andrews, Edward and Biehl, Jacob},
+title = {MR-MDEs: Exploring the Integration of Mixed Reality into Multi-display Environments (In Press)},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3773074},
+doi = {10.1145/3773074},
+abstract = {Multi-display environments (MDEs) are applicable to both everyday and specialized tasks like cooking, appliance repair, surgery, and more.In these settings, displays are often affixed in a manner that prevent reorientation, forcing users to split their attention between multiple visual information sources.Mixed reality (MR) has the potential to transform these spaces by presenting information through virtual interfaces that are not limited by physical constraints.While MR has been explored for single-task work, its role in multi-task, information-dense environments remains relatively unexplored.Our work bridges this gap by investigating the impact of different display modalities (large screens, tablets, and MR) on performance and perception in these environments. Our study's findings demonstrate the capability for MR to integrate into these spaces, extending traditional display technology with no impact to performance, cognitive load, or situational awareness. The study also further illustrates the nuanced relationship between performance and preference in tools used to guide task work. We provide insights toward the eventual authentic integration of MR in MDEs.},
+booktitle = {Proceedings of the ACM on Human-Computer Interaction},
+articleno = {ISS017},
+keywords = {Mixed Reality, Augmented Reality, Computer Vision, Unity, Rapid Prototyping},
+volume={9},
+number = {8},
+preview={mrmdes.png}
 }
