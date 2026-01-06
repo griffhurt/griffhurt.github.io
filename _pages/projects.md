@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here are some of the projects I've done over the years.
-nav: false
+description: Here are some of the projects I've worked on over the years.
+nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, personal, peckedbybirds]
 horizontal: false
 ---
 

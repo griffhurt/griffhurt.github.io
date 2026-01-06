@@ -1,12 +1,7 @@
-github_users:
-  - torvalds
-  - alshedivat
-
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - surreality-lab/SurrealityCV
+  - surreality-lab/AVP-ARKit-C
+  - surreality-lab/AVPStereoCapture
+  - surreality-lab/VisionProDisparityMatching
+  - surreality-lab/MRTK-Apple-Vision-Pro
+  - griffhurt/schedule-plus-plus
