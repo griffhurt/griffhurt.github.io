@@ -6,6 +6,7 @@ nav: true
 nav_order: 5
 toc:
   sidebar: left
+cv_pdf: griffin_hurt_cv.pdf
 ---
 
-<!-- cv_pdf: example_pdf.pdf -->
+<!--  -->

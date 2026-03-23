@@ -6,146 +6,206 @@
     - name: Email
       value: griffhurt@pitt.edu
     - name: Office Address
-      value: 130 N Bellefield Ave, Pittsburgh, PA 15017
+      value: 130 N Bellefield Ave, Pittsburgh, PA 15213
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Computer Science
       institution: University of Pittsburgh, Pittsburgh, PA
-      year: 2024 - Now
+      year: 2024 – Present
       description:
-        - "Advisor: Dr. Jacob Biehl"
+        - "<b>Advisor:</b> <a href='https://www.sci.pitt.edu/people/jacob-biehl'>Dr. Jacob Biehl</a>"
+        - "Research Focus: Spatial computing and human–computer interaction for clinical applications, including mixed reality surgical guidance and computer vision pipelines for XR."
+        - "NSF Graduate Research Fellow"
     - title: B.Phil. in Computer Science
       institution: University of Pittsburgh, Pittsburgh, PA
-      year: 2022 - 2024
+      year: 2022 – 2024
       description:
-        - "GPA: 4.00"
+        - "GPA: 4.00 — Summa Cum Laude"
         - 'Thesis: <a href="http://d-scholarship.pitt.edu/46106/"><i>Untethered Displays: The Effects of Mixed Reality on Split-Attention in Fine-Motor Tasks</i></a>'
+        - "Outstanding Undergraduate Student Award, Department of Computer Science (2024)"
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "<a href='https://journals.lww.com/neurosurgery/fulltext/9900/open_source_machine_learning_computed_tomography.2028.aspx'>Open-Source Machine Learning Computed Tomography Scan Segmentation for Spine Osteoporosis Diagnostics</a>"
+      year: 2026
+      institution: "<i>Neurosurgery</i>, Feb 2026"
+      description:
+        - "Akshay Sankar, Michael R. Kann, Samuel Adida, Shovan Bhatia, Regan M. Shanahan, Jhair A. Colan, <b>Griffin Hurt</b>, Nikhil Sharma, Nicolás M. Kass, Joseph S. Hudson, Nitin Agarwal, Peter C. Gerszten, Jacob T. Biehl, Andrew Legarreta, Edward G. Andrews, David J. McCarthy"
+    - title: "<a href='https://doi.org/10.1016/j.wneu.2025.124562'>Optimizing the Workflow of Superficial Temporal Artery Mapping in Extracranial-Intracranial Bypass Surgery Using Mixed Reality: A Proof-of-Concept Study</a>"
+      year: 2025
+      institution: "<i>World Neurosurgery</i>, Dec 2025"
+      description:
+        - "Shovan Bhatia, Aaron Huynh, Regan M. Shanahan, Michael R. Kann, Adway Gopakumar, Nikhil Sharma, Nicolás M. Kass, <b>Griffin Hurt</b>, Rishi Basdeo, Nicole Don, Michael J. Lang, Jacob T. Biehl, Edward G. Andrews"
+        - "<a href='https://griffinhurt.com/assets/pdf/stamca.pdf'>PDF</a>"
+    - title: "<a href='https://dl.acm.org/doi/10.1145/3773074'>MR-MDEs: Exploring the Integration of Mixed Reality into Multi-display Environments</a>"
+      year: 2025
+      institution: "<i>Proc. ACM Hum.-Comput. Interact.</i> | To be presented at ACM ISS 2026"
+      description:
+        - "<b>Griffin J. Hurt</b>, Talha Khan, Nicolás Matheo Kass, Anthony Tang, Edward Andrews, Jacob Biehl"
+        - "Investigated the impact of large screens, tablets, and mixed reality display modalities on performance and perception in multi-display, multi-task environments. Demonstrated MR's capability to integrate into information-dense spaces without impacting performance, cognitive load, or situational awareness."
+        - "<a href='https://griffinhurt.com/assets/pdf/mr_mdes.pdf'>PDF</a>"
+    - title: "<a href='https://dl.acm.org/doi/abs/10.1145/3694907.3765953'>SurrealityCV: An Open-Source, Cross-Platform Unity Library for Mixed Reality Computer Vision</a>"
+      year: 2025
+      institution: "<i>Proceedings of the 2025 ACM Symposium on Spatial User Interaction</i> (SUI '25), Nov 2025"
+      description:
+        - "<b>Griffin J. Hurt</b>, Calvin Brinkman, Ethan Crosby, Akshat Dhamale, Edward Andrews, Jacob Biehl"
+        - "Presented an open-source, cross-platform Unity library for common computer vision workflows in mixed reality applications, written in C++ with an OpenCV backend and C/C# APIs."
+        - "<a href='https://github.com/surreality-lab/SurrealityCV'>GitHub</a>"
+    - title: "<a href='https://academic.oup.com/jbcr/article-abstract/46/Supplement_1/S266/8101555'>814 Evaluation of Mixed Reality for Burn Margin Visualization and Surgical Planning</a>"
+      year: 2025
+      institution: "<i>Journal of Burn Care & Research</i>, Apr 2025"
+      description:
+        - "Christopher Fedor, <b>Griffin Hurt</b>, Edward Andrews, Jacob Biehl, Francesco Egro"
+        - "Demonstrated a mixed reality system overlaying deep burn margins onto a simulated anatomical surface, providing a proof-of-concept for MR-assisted surgical excision planning."
+    - title: "<a href='https://ieeexplore.ieee.org/abstract/document/10536526'>EndovasculAR: Utility of Mixed Reality to Segment Large Displays in Surgical Settings</a>"
+      year: 2024
+      institution: "<i>2024 IEEE VR Abstracts and Workshops (VRW)</i>, Apr 2024"
+      description:
+        - "<b>Griffin J. Hurt</b>, Talha Khan, Michael Kann, Edward Andrews, Jacob Biehl"
+        - "Explored transforming physical OR monitor displays into holographic windows using mixed reality to reduce split-attention cognitive load on surgeons."
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2024
       items:
-        - 2023-2024 Outstanding Undergraduate Student Award for the Department of Computer Science
-        - <a href="https://www.nsfgrfp.org/">NSF GRFP</a>
+        - "<a href='https://www.nsfgrfp.org/'>NSF Graduate Research Fellowship (GRFP)</a>"
+        - "Outstanding Undergraduate Student Award, Department of Computer Science, University of Pittsburgh"
     - year: 2023
       items:
-        - Best Capstone Talk Award, Department of Computer Science, University of Pittsburgh
-        - <a href="https://www.frederickhonors.pitt.edu/research/research-creative-fellowships/chancellors-undergraduate-teaching-fellowships">Chancellor's Undergraduate Teaching Fellowship</a>, Frederick Honors College, University of Pittsburgh
-        - Dean's List, University of Pittsburgh School of Computing and Information, University of Pittsburgh
+        - "Best Capstone Talk Award, Department of Computer Science, University of Pittsburgh"
+        - "<a href='https://www.frederickhonors.pitt.edu/research/research-creative-fellowships/chancellors-undergraduate-teaching-fellowships'>Chancellor's Undergraduate Teaching Fellowship</a>, Frederick Honors College"
+        - "Dean's List, School of Computing and Information, University of Pittsburgh"
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Senior Computer Science Research Lead
-      institution: <a href="https://surreality.pitt.edu">Surreality Lab</a>, University of Pittsburgh
-      year: 2023 - Now
+    - title: PhD Researcher
+      institution: "<a href='https://surreality.pitt.edu'>Surreality Lab</a>, University of Pittsburgh"
+      year: 2024 – Present
       description:
-        - Spearheaded the development of interfaces for endovascular surgical displays, aimed at mitigating cognitive load and enhancing surgical performance through mixed reality (MR) technology.
-        - Authored a proposal submission to the NSF Graduate Researcher Fellowship Program, aiming to explore mixed reality needle guidance for arterial line placement.
-        - Collaborated with medical professionals to explore novel mixed reality interfaces for annotation in robot-assisted surgery, emphasizing applications for DaVinci surgical robots.
+        - "Part of the technical team for the <b>first mixed-reality-mediated endoscopic endonasal skull base surgery</b> performed at UPMC Presbyterian (February 2026)"
+        - "Designed and implemented stereo video capture on Apple Vision Pro (AVPStereoCapture) and deployed RAFT-Stereo via CoreML for real-time neural disparity matching (~135ms on AVP)."
+        - "Building SurrealityCV — a cross-platform C++/C#/Python XR computer vision library with Unity integration and an OpenCV backend, with HoloLens 2 support in development."
+        - "Architecting low-latency video streaming systems using intraframe compression and WebRTC for surgical video streaming and presentation interfaces."
+        - "Authored proposal to the NSF GRFP exploring mixed reality needle guidance for arterial line placement."
+    - title: Research and Development Intern
+      institution: "<a href='https://www.medivis.com/'>Medivis</a>, New York, NY"
+      year: Summer 2024
+      description:
+        - "Contributed to R&D on the SurgicalAR Ultrasound add-on — an AR-enabled ultrasound visualization system supporting wireless POCUS probes (Clarius) and wired probes with spatial tracking and situated holographic views."
     - title: Undergraduate Research Assistant
       institution: Department of Computer Science, University of Pittsburgh
-      year: 2022 - 2023
+      year: 2022 – 2023
       description:
-        - Designed and built mixed reality systems software for the Microsoft HoloLens 2 to investigate the effects of different display modalities on user sentiment and task accuracy.
-        - Initiated and structured a study evaluating the effects of mixed reality on cognitive load and situational awareness in split attention tasks, employing LEGO assembly as a model task.
-        - Participated in lab group discussions and assisted graduate researchers with reviewing current work.
-
+        - "Designed and built mixed reality systems for Microsoft HoloLens 2 to study display modality effects on user sentiment and task accuracy."
+        - "Led study design evaluating MR effects on cognitive load and situational awareness in split-attention tasks (LEGO assembly as model fine-motor task)."
     - title: High School Research Assistant
-      institution: <a href="https://www.zervalab.com/">Zervantonakis Lab</a>, University of Pittsburgh
-      year: 2021 - 2022
+      institution: "<a href='https://www.zervalab.com/'>Zervantonakis Lab</a>, University of Pittsburgh"
+      year: 2021 – 2022
       description:
-        - Investigated the spatial relationship between tumor cells and fibroblasts in HER2+ breast cancer and its effects on proliferation.
-        - Wrote software to increase efficiency of AI microscopy image analysis pipeline. Application has now been used to analyze almost 1 million images.
-        - Studied the trade-off between speed and accuracy in classical versus random forest machine learning-based cellular image segmentation.
+        - "Investigated spatial tumor–fibroblast interactions in HER2+ breast cancer and their effects on proliferation."
+        - "Wrote software that has since been used to analyze nearly 1 million microscopy images in the lab's AI image analysis pipeline."
+        - "Studied trade-offs between classical and random-forest-based ML approaches to cellular image segmentation."
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://stemthrough.games/">STEM Through Games</a>
-      year: 2023 - Now
+    - title: "<a href='https://stemthrough.games/'>STEM Through Games</a> — Course Designer and Instructor"
+      year: 2023 – 2025
       description:
-        - 11 students
-        - Design, pilot, and evaluate a game design and development program that introduces high school students to computational thinking, foundations of programming, and cross-disciplinary academic STEM research through the design and implementation of digital games.
-        - Teach Unity concepts including GameObjects, C#, and Components.
-        - Collect data on the efficacy of teaching computational thinking and STEM topics through game design and development.
-    - title: "CS 0449: Introduction to Systems Software"
-      year: Sp '24
+        - "Designed, piloted, and iteratively evaluated a high school game design and development curriculum introducing computational thinking, programming fundamentals, and STEM research methods."
+        - "Taught Unity (GameObjects, C#, Components) to ~11 students per cohort."
+        - "Collected longitudinal data on the efficacy of game-based STEM education."
+    - title: "CS 0449: Introduction to Systems Software — Undergraduate Teaching Assistant"
+      year: "Sp '24"
       description:
-        - ~20 students
-        - Led recitation section teaching elements of C programming, compiling/linking, and multithreading/synchronization.
-    - title: "CS 0441: Discrete Structures for Computer Science"
-      year: Fa '23
+        - "Led recitation (~20 students) covering C programming, compiling/linking, multithreading, and synchronization."
+    - title: "CS 0441: Discrete Structures for Computer Science — Undergraduate Teaching Assistant"
+      year: "Fa '23"
       description:
-        - ~20 students
-        - Led recitation section by selecting and presenting example problems to students.
-    - title: "CMPINF 0010: Big Ideas in Computing and Information"
-      year: Sp '23 - Sp '24
+        - "Led recitation (~20 students) selecting and presenting worked example problems."
+    - title: "CMPINF 0010: Big Ideas in Computing and Information — Undergraduate Teaching Assistant"
+      year: "Sp '23 – Sp '24"
       description:
-        - 30 - 35 students
-        - Presented lessons in lab section covering Python programming, basic data science with Pandas, Linux command line, and version control with Git.
-        - Awarded Chancellor's Undergraduate Teaching Fellowship to restructure lab section curriculum to align with material covered in lecture.
+        - "Taught lab section (30–35 students) covering Python, Pandas, Linux CLI, and Git."
+        - "Awarded Chancellor's Undergraduate Teaching Fellowship to redesign lab curriculum to align with lecture content."
 
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Research and Development Intern
-      year: 2024
-      institution: <a href="https://www.medivis.com/">Medivis</a>, New York, NY
     - title: Resident Assistant
       year: 2023
-      institution: <a href="https://hillmanacademy.upmc.com/">UPMC Hillman Academy</a>, Pittsburgh, PA
-      description: 
-        - Supervised a group of 8 global students during a 7-week cancer research program, ensuring a safe and enriching living environment.
-        - Exhibited strong leadership skills, guiding students in navigating the challenges of the program and setting a positive example for the dormitory community.
-        - Served as a point of contact for students, offering mental health support and encouraging personal growth throughout the program.
-    - title: Student Mentor
-      year: 2021-2022
-      institution: <a href="http://ic4.site/index.html">IC4 Project</a>, Pepperdine University, Malibu, CA (Remote)
+      institution: "<a href='https://hillmanacademy.upmc.com/'>UPMC Hillman Academy</a>, Pittsburgh, PA"
       description:
-        - Devised and taught Python programming curriculum to a cohort of international students.
-        - Directed student teachers in delivering lessons and building applications.
-        - Mentored student programmers with computer science projects and technical presentation skills.
-        - Developed proprietary educational technology to streamline computer science distance learning.
+        - "Supervised a group of 8 students during a 7-week immersive cancer research program, ensuring a safe and enriching living environment."
+        - "Provided mentorship, mental health support, and academic guidance."
+    - title: Student Mentor
+      year: 2021 – 2022
+      institution: "<a href='http://ic4.site/index.html'>IC4 Project</a>, Pepperdine University (Remote)"
+      description:
+        - "Designed and taught Python curriculum to a cohort of students."
+        - "Mentored student teachers in delivering lessons and building software projects."
+        - "Developed proprietary EdTech tooling to streamline CS distance learning."
     - title: Software Intern
       year: 2019
-      institution: <a href="https://www.fi360.com/">Fi360, A Broadridge Company</a>, Pittsburgh, PA
+      institution: "<a href='https://www.fi360.com/'>Fi360, A Broadridge Company</a>, Pittsburgh, PA"
       description:
-        - Assisted in the development of UI (user interface) in Vue.js for company's Stable Value product.
-        - Reversed engineered C# code and wrote reports on its functionality.
+        - "Contributed to Vue.js UI development for the company's Stable Value product."
+        - "Analyzed and documented legacy C# codebases."
 
-- title: Projects
+- title: Selected Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/griffhurt/schedule-plus-plus">Schedule++</a>
+    - title: "<a href='https://github.com/surreality-lab/AVPStereoCapture'>AVPStereoCapture</a>"
+      year: 2024
+      institution: Surreality Lab
+      description:
+        - "<u>Swift, ARKit, AVFoundation</u>"
+        - "Stereo video capture on Apple Vision Pro with calibrated intrinsics and extrinsics."
+    - title: "<a href='https://github.com/surreality-lab/VisionProDisparityMatching'>VisionProDisparityMatching</a>"
+      year: 2024
+      institution: Surreality Lab
+      description:
+        - "<u>Swift, CoreML, RAFT-Stereo</u>"
+        - "Neural stereo disparity matching on Apple Vision Pro via CoreML. ~45ms on M3 Max; ~135ms on AVP."
+    - title: "<a href='https://dl.acm.org/doi/abs/10.1145/3694907.3765953'>SurrealityCV</a>"
+      year: 2023 – Present
+      institution: Surreality Lab
+      description:
+        - "<u>C++, C#, Python, CMake, OpenCV, Unity XR</u>"
+        - "Cross-platform XR computer vision library with Unity-compatible bindings and OpenCV backend. HoloLens 2 support in development."
+    - title: "<a href='https://github.com/griffhurt/schedule-plus-plus'>Schedule++</a>"
       year: 2022
-      institution: CSCHacks, University of Pittsburgh, Pittsburgh, PA
+      institution: "CSCHacks — <b>1st Place</b>"
       description:
-        - <b>Won first prize in hackathon</b>
-        - <u>Technologies used:</u> JavaScript, GraphQL, CORS, AJAX, Web App Manifest
-        - Developed an open source browser extension to add additional features to University of Pittsburgh's scheduling portal
-        - Led a team of 3 developers
-    - title: <a href="https://apps.apple.com/us/app/ub-founders/id1574361137">UB Founders</a>
-      year: 2021
-      institution: University at Buffalo, Buffalo, NY (Remote)
-      description:
-        - <u>Technologies used:</u> React Native, Bootstrap, PHP, MySQL
-        - Developed a feature-rich mobile application for both iOS and Android to deliver the university's podcast content to donors, enhancing donor engagement and promoting university initiatives.
-        - Created an intuitive and user-friendly web panel utilizing, enabling seamless uploading and management of new podcast episodes by university staff.
-        - Collaborated closely with university stakeholders to understand requirements, design specifications, and feedback, resulting in a tailor-made solution that met the university's specific needs and preferences.
+        - "<u>JavaScript, GraphQL, CORS, Web App Manifest</u>"
+        - "Open-source browser extension adding scheduling features to Pitt's course portal. Led a team of 3."
+
+- title: Skills
+  type: list
+  contents:
+    - "<b>Languages:</b> C++, C#, Python, Swift, Bash, HLSL/Metal, JavaScript, LaTeX"
+    - "<b>Frameworks & Libraries:</b> Unity XR Toolkit, OpenCV, Open3D, CoreML, ARKit, RealityKit, WebRTC, React, Vue.js"
+    - "<b>Platforms:</b> Apple Vision Pro, Microsoft HoloLens 2, Raspberry Pi, Linux, macOS, iOS"
+    - "<b>Research Methods:</b> Within-subjects user studies, cognitive load assessment (NASA-TLX), qualitative coding, IRB protocol design, clinical trials"
+    - "<b>Tools:</b> CMake, Git, Xcode, Visual Studio, Fusion 360, 3D printing"
 
 - title: Leadership and Service
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - "Presenter and Student Volunteer, <a href='https://sui.acm.org/2025/'>ACM Symposium on Spatial User Interaction (SUI 2025)</a>"
     - year: 2023
       items:
-        - Student Volunteer, <a href="https://iss2023.acm.org/">ACM Interactive Sufaces and Sensing (ISS)</a>
-        - Undergraduate Presenter, <a href="https://zervalab.com">Zervantonakis Lab</a>, <a href="https://www.leadingforlife.org/m/pages/index.jsp?uREC_ID=475670&type=d">LEAD Program</a>, University of Pittsburgh
-        - Student Panelist, Early Experiences in Undergraduate Research, School of Computing and Information, University of Pittsburgh
+        - "Student Volunteer, <a href='https://iss2023.acm.org/'>ACM Interactive Surfaces and Spaces (ISS 2023)</a>"
+        - "Undergraduate Presenter, Zervantonakis Lab, <a href='https://www.leadingforlife.org/m/pages/index.jsp?uREC_ID=475670&type=d'>LEAD Program</a>, University of Pittsburgh"
+        - "Student Panelist, Early Experiences in Undergraduate Research, School of Computing and Information"
     - year: 2022
       items:
-        - Student Representative, SCI Academic Council, School of Computing and Information, University of Pittsburgh
-        - High School Research Presenter, <a href="https://zervalab.com">Zervantonakis Lab</a>, <a href="https://www.leadingforlife.org/m/pages/index.jsp?uREC_ID=475670&type=d">LEAD Program</a>, University of Pittsburgh
+        - "Student Representative, SCI Academic Council, School of Computing and Information, University of Pittsburgh"
+        - "High School Research Presenter, Zervantonakis Lab, LEAD Program, University of Pittsburgh"
